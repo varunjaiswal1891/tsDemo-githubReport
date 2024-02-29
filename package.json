@@ -1,0 +1,12 @@
+{
+  "name": "tsdemo-githubreport",
+  "version": "1.0.0",
+  "description": "typescript demo project for github report",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node out/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
